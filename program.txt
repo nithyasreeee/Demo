@@ -1,4 +1,8 @@
 React is a popular JavaScript library developed by Facebook (now Meta) for building user interfaces, especially for single-page applications (SPAs). It helps developers create fast, interactive UIs with a component-based architecture.
+<<<<<<< HEAD
 mern stack developer 
+=======
+asdasdasdasdaasdasd
+>>>>>>> 0672e57c7a2ba42f2a712c1d65eda80a7f837078
 
 nithya ku arivu illa
